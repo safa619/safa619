@@ -26,13 +26,13 @@
 هنا ستجدون بعض المشاريع التي عملت عليها. كل مشروع يمثل خطوة في رحلتي التعليمية وتطبيقاً لما تعلمته.
 
 ### 🌐 موقع المحفظة الشخصية
-[شاهد المشروع هنا](https://safa619.github.io/portfolio-website/ ) | [المستودع على GitHub](https://github.com/safa619/portfolio-website )
+[(https://github.com/safa619/portfolio-website )
 
 ### 🔢 حاسبة تفاعلية
 [المستودع على GitHub](https://github.com/safa619/simple-calculator )
 
 ### ✅ تطبيق قائمة المهام
-[شاهد المشروع هنا](https://safa619.github.io/todo-app/ ) | [المستودع على GitHub](https://github.com/safa619/todo-app )
+[المستودع على GitHub](https://github.com/safa619/todo-app )
 
 تواصل معي 💬
 
