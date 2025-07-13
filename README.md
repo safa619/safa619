@@ -29,7 +29,7 @@
 [المستودع على GitHub](https://github.com/safa619/portfolio-website )
 
 ### 🔢 حاسبة تفاعلية
-[المستودع على GitHub](https://github.com/safa619/simple-calculator )
+[المستودع على GitHub](https://github.com/safa619/calculator )
 
 ### ✅ تطبيق قائمة المهام
 [المستودع على GitHub](https://github.com/safa619/todo-app )
