@@ -31,7 +31,7 @@
 
 
 ### 🌐 موقع المحفظة الشخصية
-[شاهد المشروع هنا](https:/safa619.github.io/portfolio-website/) | [المستودع على GitHub](https://github.com/safa619/portfolio-website)
+[المستودع على GitHub](https://github.com/safa619/portfolio-website)
 
 ### 🔢 حاسبة تفاعلية
 [المستودع على GitHub](https://github.com/safa619/calculator)
