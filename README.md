@@ -43,5 +43,5 @@
 
 يسعدني التواصل والتعاون في مشاريع جديدة. لا تترددوا في التواصل معي عبر:
 
-
+<a href="mailto:s.alfituri@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
